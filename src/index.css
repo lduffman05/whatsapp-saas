@@ -1,0 +1,39 @@
+
+body {
+  font-family: sans-serif;
+  background: #e9f9ec;
+  color: #1a3e2f;
+  padding: 2rem;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  border: 1px solid #cde7d7;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
+button {
+  background: #3cb371;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background: #2e8b57;
+}
+pre {
+  background: #f0f0f0;
+  padding: 1rem;
+  overflow-x: auto;
+}
